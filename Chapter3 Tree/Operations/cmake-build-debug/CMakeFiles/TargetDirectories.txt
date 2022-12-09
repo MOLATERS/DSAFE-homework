@@ -1,0 +1,3 @@
+D:/SOPHOMORE_1/DSAFEcode/Chapter3 Tree/Operations/cmake-build-debug/CMakeFiles/Operations.dir
+D:/SOPHOMORE_1/DSAFEcode/Chapter3 Tree/Operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SOPHOMORE_1/DSAFEcode/Chapter3 Tree/Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

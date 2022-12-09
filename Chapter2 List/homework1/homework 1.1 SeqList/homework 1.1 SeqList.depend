@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1662810451 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\insert.c
+	"SeqList.h"
+
+1662807486 c:\users\slater\documents\my codes\homework 1.1 seqlist\seqlist.h
+	<stdio.h>
+	<string.h>
+
+1662807200 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\locate.c
+	"SeqList.h"
+
+1662807358 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\main.c
+	<stdio.h>
+	"SeqList.h"
+	<stdlib.h>
+
+1662807470 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\reverse.c
+	"SeqList.h"
+
+1662806721 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\sort.c
+	"SeqList.h"
+
+1662806077 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\swap.c
+	"SeqList.h"
+
+1662807192 source:c:\users\slater\documents\my codes\homework 1.1 seqlist\delete.c
+	"SeqList.h"
+
+1664011228 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\delete.c
+	"SeqList.h"
+
+1664194600 c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\seqlist.h
+	<stdio.h>
+	<string.h>
+
+1662810451 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\insert.c
+	"SeqList.h"
+
+1662807200 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\locate.c
+	"SeqList.h"
+
+1664118360 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\main.c
+	<stdio.h>
+	"SeqList.h"
+	<stdlib.h>
+
+1662807470 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\reverse.c
+	"SeqList.h"
+
+1662806721 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\sort.c
+	"SeqList.h"
+
+1662806077 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\swap.c
+	"SeqList.h"
+
+1664019065 source:c:\users\slater\documents\vscode\.vscode\c\data structures and algorithms homework\homework1\homework 1.1 seqlist\sumlist.c
+	"SeqList.h"
+

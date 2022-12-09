@@ -1,0 +1,3 @@
+C:\Users\Slater\Documents\vscode\.vscode\C\Data structures and algorithms homework\homework1\homework 1.2\x64\Debug\homework 1.2.exe
+C:\Users\Slater\Documents\vscode\.vscode\C\Data structures and algorithms homework\homework1\homework 1.2 LinkList\x64\Debug\homework 1.2.exe
+C:\Users\Slater\Documents\vscode\.vscode\DSAFE\Chapter2 List\homework1\homework 1.2 LinkList\x64\Debug\homework 1.2.exe

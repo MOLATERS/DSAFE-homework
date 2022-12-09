@@ -1,0 +1,27 @@
+# ninja log v5
+1	162	6909821788850604	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+164	353	6909821790730552	HeapSort.exe	1a053eed37fb90ca
+2	108	6909823283506681	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+108	263	6909823285016826	HeapSort.exe	1a053eed37fb90ca
+2	104	6909824476918453	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+105	265	6909824478469321	HeapSort.exe	1a053eed37fb90ca
+2	100	6909826801569214	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+101	284	6909826803168833	HeapSort.exe	1a053eed37fb90ca
+2	102	6909827255071661	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+103	250	6909827256531497	HeapSort.exe	1a053eed37fb90ca
+3	98	6909827315920667	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+98	247	6909827317390664	HeapSort.exe	1a053eed37fb90ca
+2	102	6909828545875124	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+103	274	6909828547534240	HeapSort.exe	1a053eed37fb90ca
+1	107	6909828899846208	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+108	265	6909828901386221	HeapSort.exe	1a053eed37fb90ca
+2	103	6909838177364740	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+103	252	6909838178834743	HeapSort.exe	1a053eed37fb90ca
+2	117	6909838475528327	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+118	279	6909838477109229	HeapSort.exe	1a053eed37fb90ca
+2	106	6909838636371749	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+107	262	6909838637886153	HeapSort.exe	1a053eed37fb90ca
+2	107	6909838777923485	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+108	259	6909838779394372	HeapSort.exe	1a053eed37fb90ca
+2	111	6909840173399127	CMakeFiles/HeapSort.dir/main.c.obj	fcd717fa4fb6066a
+112	266	6909840174929210	HeapSort.exe	1a053eed37fb90ca
